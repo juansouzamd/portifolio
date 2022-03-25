@@ -1,13 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
 
+:root {
+    --cinza-claro: #F5F5F5;
+    --azul-claro: #EAF2FD;
+}
+
+
 * {
     font-family: "Raleway";
     font-weight: 500;
 }
 
+
+
 body {
     font-family: "Raleway";
-    background-color: #F5F5F5;
+    background-color: var(--cinza-claro);
     color: #464646;
     font-size: 16px;
 }

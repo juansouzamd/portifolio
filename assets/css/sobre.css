@@ -3,18 +3,18 @@
 .sobre-container {
     display: flex;
     flex-direction: column;
-    background-color: #EAF2FD;
+    background-color: var(--azul-claro);
 }
 
 .sobre-titulo {
     font-weight: bold;
     font-size: 40px;
-    padding: 40px 0 25px 125px;
+    padding: 40px 0 25px 135px;
 }
 
 .sobre-texto {
     font-size: 20px;
-    padding: 20px 0 25px 125px;
+    padding: 20px 0 25px 135px;
     width: 50%;
     font-weight: 500;
     font-family: "Raleway";

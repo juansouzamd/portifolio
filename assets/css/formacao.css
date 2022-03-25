@@ -1,0 +1,65 @@
+.formacao-container {
+    background-color: var(--azul-claro);
+}
+
+.formacao-titulo {
+    font-weight: bold;
+    font-size: 40px;
+    padding: 60px 0 50px 0px;
+    text-align: center;
+}
+
+.formacao-certificados {
+   display: flex;
+   justify-content: space-around;
+   padding: 0 50px 0 120px;
+   height: 60vh;
+}
+
+.formacao_imagem-alura {
+  width: 80%;
+  
+}
+
+.formacao_titulo-alura {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.formacao_texto-alura {
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.formacao_imagem-senai {
+    width: 80%;
+    
+  }
+
+.formacao_titulo-senai {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.formacao_texto-senai {
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.formacao_imagem-descomplica {
+    width: 80%;
+    
+}
+
+.formacao_titulo-descomplica {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.formacao_texto-descomplica {
+    padding-top: 5px;
+    font-size: 15px;
+}
