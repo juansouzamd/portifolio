@@ -1,0 +1,98 @@
+/* Skills*/
+
+.skills_hobbies-container {
+    text-align: center;
+}
+
+.skills-titulo {
+    font-weight: bold;
+    font-size: 40px;
+    padding: 60px 0 50px 0px;
+}
+
+.skills-secao {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.skills-html5 {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.skills_imagem-html5 {
+    max-width: 70px;
+}
+
+.skllis_titulo-html5 {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.skills-css3 {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.skills_imagem-css3 {
+    max-width: 70px;
+}
+
+.skills_titulo-css3 {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.skills-javascript {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.skills_imagem-javascript {
+    max-width: 70px;
+}
+
+.skills_titulo-javascript {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.skills-typescript {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.skills_imagem-typescript {
+    max-width: 72px;
+}
+
+.skills_titulo-typescript {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.skills-angular {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.skills_imagem-angular {
+    max-width: 70px;
+}
+
+.skills_titulo-angular {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}

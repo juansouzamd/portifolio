@@ -1,0 +1,46 @@
+/*Perfil*/
+
+.perfil-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 0 40px 0;
+    height: 80vh;
+}
+
+.perfil-conteudo {
+    width: 100%;
+    margin-left: 120px;
+    padding: 10px 0 40px 40px;
+}
+
+.perfil-headline {
+    /* topo | direita | inferior | esquerda */
+    padding: 20px;
+    font-weight: 700;
+    font-family: "Raleway";
+    font-size: 50px;
+}
+
+.perfil-subtexto {
+    font-size: 35px;
+    padding: 20px;
+}
+
+.perfil-menu {
+    display: flex;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.perfil-menu li {
+    margin-right: 30px;
+    
+}
+
+.perfil-imagem {
+    border-radius: 50%;
+    width: 85%;
+    height: 50%;
+    margin-right: 50px;
+}

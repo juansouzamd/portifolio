@@ -1,0 +1,94 @@
+/* Hobbies */
+
+.hobbies-titulo {
+    font-weight: bold;
+    font-size: 40px;
+    padding: 60px 0 50px 0px;
+}
+
+.hobbies-secao {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 100px 40px 100px;
+    
+}
+
+.hobbies-futebol {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.hobbies_imagem-futebol {
+    max-width: 70px;
+}
+
+.hobbies_titulo-futebol {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.hobbies-series {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.hobbies_imagem-series {
+    max-width: 70px;
+}
+
+.hobbies_titulo-series {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.hobbies-games {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.hobbies_imagem-games {
+    max-width: 70px;
+}
+
+.hobbies_titulo-games {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.hobbies-academia {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.hobbies_imagem-academia {
+    max-width: 75px;
+}
+
+.hobbies_titulo-academia {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.hobbies-musica {
+    padding: 30px;
+    background-color: #fff;
+    width: 100px;
+}
+
+.hobbies_imagem-musica {
+    max-width: 75px;
+}
+
+.hobbies_titulo-musica {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 15px;
+}
