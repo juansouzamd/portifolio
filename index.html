@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="assets/css/hobbies.css">
     <link rel="stylesheet" href="assets/css/formacao.css">
     <link rel="stylesheet" href="assets/css/experiencia.css">
+    <link rel="stylesheet" href="assets/css/contato.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -239,6 +240,51 @@
 
             </div>
 
+
+        </section>
+
+        <section class="contato-container">
+            
+            <div class="teste">
+                    <div>
+                        <img src="assets/img/contato.png" alt="contato" class="contato-imagem">
+                    </div>
+
+                    <div class="contato-conteudo">
+                        <div>
+                            <h3 class="contato-titulo"> Contato </h3>
+
+                            <p class="contato-texto"> Quer entrar em contato comigo? </p>
+                            <p class="contato-texto"> Preencha o formulário abaixo e entrarei em contato o mais rápido possível. </p>
+                        </div>
+                        
+                        <form class="contato-formulario">
+
+                            <div class="input-texto">
+                                <input type="text" class="contato_formulario--nome" name="nome" required placeholder="Nome e Sobrenome">
+                                <label for="contato_formulario--nome"></label>
+                            </div>
+
+                            <div class="input-texto">
+                                <input type="email" class="contato_formulario--emal" name="email" required placeholder="E-mail">
+                                <label for="contato_formulario--emal"></label>
+                            </div>
+
+                            <div class="input-texto">
+                                <input type="text" class="contato_formulario--assunto" name="assunto" required placeholder="Assunto">
+                                <label for="contato_formulario--assunto"></label>
+                            </div>
+
+                            <div class="input-texto">
+                                <textarea class="contato_formulario--mensagem" style="height: 180px; padding-top: 1.6rem;" name="mensagem" name="mensagem" required placeholder="Mensagem"></textarea>
+                                <label for="contato_formulario--mensagem"></label>
+                            </div>
+
+                            <input type="submit" class="contato_formulario--botao" value="Enviar mensagem" disabled>
+
+                        </form>
+                </div>
+            </div>
 
         </section>
 
